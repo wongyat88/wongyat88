@@ -26,7 +26,7 @@
 - Python, Java, JavaScript, TypeScript, Dart, CSS, SCSS, HTML5, PHP
 
 **Frameworks & Tools**  
-- Django REST API, Flask, Express, Nitro, Vite Vue3, Nuxt3, React, Android, Flutter
+- Django REST API, Flask, Express, Nitro, Spring Boot, Vite Vue3, Nuxt3, React, Android, Flutter
 
 **Libraries**  
 - Ant Design, Tailwind, Element Plus, Bootstrap5, Tabulator Table, JWT, Prisma, Axios, OpenCV, NumPy, Pandas, Matplotlib

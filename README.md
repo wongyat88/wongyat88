@@ -10,7 +10,7 @@
 - Led 5+ full lifecycle web-based application developments for inventory and POS systems, covering design, database architecture, development, testing, and deployment.
 - Managed diverse projects using technologies like Vite Vue3 (CSR), Nuxt3 (SSR), React (CSR), Django (SSR), Django REST API, Express, Nitro, and PHP.
 - Developed 5+ Android and desktop applications using Java, with RFID technology integration for advanced inventory management.
-- Configured and maintained cloud server environments on Linux and Windows Server 2019, including web server setup (IIS, Nginx), SSL/SSH connections, and automated database backups.
+- Configured and maintained cloud server environments on Linux and Windows Server 2019, including web server setup (IIS, Nginx), SSL/SSH connections, domain name manage, and automated database backups.
 
 ### **Technician Support Service**  
 **Speedy Group Corporation Limited**  
@@ -32,10 +32,10 @@
 - Ant Design, Tailwind, Element Plus, Bootstrap5, Tabulator Table, JWT, Prisma, Axios, OpenCV, NumPy, Pandas, Matplotlib
 
 **Databases**  
-- MariaDB, MySQL, SQLite, Oracle DB, MongoDB, Cassandra
+- MariaDB, MySQL, SQLite, Oracle DB, MongoDB
 
 **Technologies**  
-- PyTorch, RetinaNet, YOLO, RAG
+- PyTorch, YOLO, RAG
 
 **Systems & Servers**  
 - Windows Server 2019, IIS, Linux (Ubuntu 22), Nginx, Apache, wfastcgi, SSL, SSH, Task Scheduler
@@ -66,10 +66,6 @@
 - Cantonese (Native)
 - English (Fluent)
 - Mandarin (Fluent)
-
-## 💡 Summary
-
-With a strong foundation in full-stack development, I have experience designing systems across front-end, back-end, mobile, and desktop applications. I specialize in creating REST APIs, handling web sockets with authorization, and building custom middleware. I'm constantly learning new technologies and programming languages to stay ahead in the ever-evolving tech landscape.
 
 <!--
 **wongyat88/wongyat88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

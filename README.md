@@ -1,83 +1,99 @@
 # 👋 Hi, I'm Jacky
 
-🎓 MSc Computer Science student at the University of Hong Kong with over 5 years of experience in programming, system design, and full-stack development. I'm passionate about learning new technologies and continuously improving the user experience across web, mobile, and desktop platforms.
+[![Website Banner](https://wongyat88.github.io/banner.gif)](https://wongyat88.github.io)
 
-## 💼 Working Experience
+🌐 **[Visit My Website](https://wongyat88.github.io)**
+
+🎓 **MSc Computer Science** student at the University of Hong Kong  
+💼 **Senior Programmer** at Gold Label Technology Limited
+
+---
+
+## 🚀 About Me
+
+I'm a passionate full-stack developer with over 5 years of experience in programming, system design, and developing web, mobile, and desktop applications. I love exploring new technologies and enhancing user experiences across various platforms.
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+  <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png&color=000000" title="Python" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=48&id=39852&format=png&color=000000" title="PHP" alt="PHP" />
+</div>
+
+---
+
+## 🔧 Frameworks & Tools
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" alt="React" />
+  <img src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000" title="Nextjs" alt="Nextjs" />
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue.js" alt="Vue.js" />
+  <img src="https://img.icons8.com/?size=48&id=nvrsJYs7j9Vb&format=png&color=000000" title="nuxt3" alt="nuxt3" />
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" alt="GitHub" />
+  <img src="https://img.icons8.com/?size=48&id=108792&format=png&color=000000" title="Windows" alt="Windows" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" alt="Linux" />
+</div>
+
+---
+
+## 💼 Experience
 
 ### **Senior Programmer**  
 **Gold Label Technology Limited**  
 *March 2022 – Present*  
-- Led 5+ full lifecycle web-based application developments for inventory and POS systems, covering design, database architecture, development, testing, and deployment.
-- Managed diverse projects using technologies like Vite Vue3 (CSR), Nuxt3 (SSR), React (CSR), Django (SSR), Django REST API, Express, Nitro, and PHP.
-- Developed 5+ Android and desktop applications using Java, with RFID technology integration for advanced inventory management.
-- Configured and maintained cloud server environments on Linux and Windows Server 2019, including web server setup (IIS, Nginx), SSL/SSH connections, domain name manage, and automated database backups.
+- Led multiple full lifecycle web-based application developments.
+- Managed projects using Vite Vue3, Nuxt3, React, Nextjs, Django, Express, and more.
+- Developed Android and desktop applications with Java, integrating RFID technology.
+- Configured and maintained cloud server environments on Linux and Windows Server.
 
-### **Technician Support Service**  
+### **Technical Support Specialist**  
 **Speedy Group Corporation Limited**  
 *July 2021 – February 2022*  
-- Provided hardware maintenance and troubleshooting for PC systems, improving operational efficiency.
-- Configured and managed Windows domain environments and network access points, ensuring stable network connectivity.
-- Developed a web-based Substitute System for managing teacher assignments using Python and web technologies.
-- Built an automated system for detecting QR code data and renaming files using Python and OpenCV.
+- Provided hardware maintenance and troubleshooting for PC systems.
+- Managed Windows domain environments and network access points.
+- Developed a web-based Substitute System using Python and web technologies.
+- Built an automated system for QR code data detection and file renaming with Python and OpenCV.
 
-## 🔧 Skills
+---
 
-**Programming Languages**  
-- Python, Java, JavaScript, TypeScript, Dart, CSS, SCSS, HTML5, PHP
-
-**Frameworks & Tools**  
-- Django REST API, Flask, Express, Nitro, Spring Boot, Vite Vue3, Nuxt3, React, Android, Flutter
-
-**Libraries**  
-- Ant Design, Tailwind, Element Plus, Bootstrap5, Tabulator Table, JWT, Prisma, Axios, OpenCV, NumPy, Pandas, Matplotlib
-
-**Databases**  
-- MariaDB, MySQL, SQLite, Oracle DB, MongoDB
-
-**Technologies**  
-- PyTorch, YOLO, RAG
-
-**Systems & Servers**  
-- Windows Server 2019, IIS, Linux (Ubuntu 22), Nginx, Apache, wfastcgi, SSL, SSH, Task Scheduler
-
-## 🛠 Other Skills
-
-- GitHub Copilot
-- Stable Diffusion (LoRa)
-- GPT-SoVITS
-- Putty
-- AWS Bedrock
-- GitHub / Git Control
-
-## 🎓 Education
+## 📚 Education
 
 **MSc Computer Science**  
-*University of Hong Kong, HKSAR (September 2023 – Present)*
+*University of Hong Kong, HKSAR*  
+*September 2023 – Present*
 
 **BSc Information Technology of Business**  
-*Coventry University, United Kingdom (September 2017 – August 2020)*
+*Coventry University, United Kingdom*  
+*September 2017 – August 2020*
 
-## 📜 Certifications
+---
 
-- Common Recruitment Examination (CRE), HKSAR - *November 2020*
+## 🏆 Certifications
+
+- **Common Recruitment Examination (CRE), HKSAR**  
+  *November 2020*
+
+---
 
 ## 🌍 Languages
 
-- Cantonese (Native)
-- English (Fluent)
-- Mandarin (Fluent)
+- **Cantonese** (Native)
+- **English** (Fluent)
+- **Mandarin** (Fluent)
 
-<!--
-**wongyat88/wongyat88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/yat-cheong-jacky)
+- [Email](mailto:jackywongboy84@gmail.com)

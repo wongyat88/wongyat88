@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jacky
 
-[![Website Banner](https://wongyat88.github.io/banner.gif)](https://wongyat88.github.io)
+[![Website Banner](https://wongyat88.github.io/banner2.gif)](https://wongyat88.github.io)
 
 🌐 **[Visit My Website](https://wongyat88.github.io)**
 

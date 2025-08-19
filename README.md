@@ -56,7 +56,7 @@ I'm a passionate full-stack developer with over 5 years of experience in program
 *May 2025 – Present*  
 - Led multiple full lifecycle web-based application developments.
 - Managed old projects and migrate to new modern tech / frameworks.
-- Configured and maintained server environments on Linux uduntu with Nginx, pm2, auto deploy and auto backup.
+- Configured and maintained server environments on Linux ubuntu with Nginx, pm2, auto deploy and auto backup.
 
 ### **Full Stack Web Developer**  
 **Gold Label Technology Limited**  

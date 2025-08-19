@@ -8,7 +8,7 @@
 🌐 **[Visit My Website](https://wongyat88.github.io)**
 
 🎓 **MSc Computer Science** student at the University of Hong Kong  
-💼 **Senior Programmer** at Gold Label Technology Limited
+💼 **Analyst Programmer** at The Hong Kong Observatory
 
 ---
 
@@ -51,9 +51,16 @@ I'm a passionate full-stack developer with over 5 years of experience in program
 
 ## 💼 Experience
 
-### **Senior Programmer**  
+### **Analyst Programmer**  
+**The Hong Kong Observatory**  
+*May 2025 – Present*  
+- Led multiple full lifecycle web-based application developments.
+- Managed old projects and migrate to new modern tech / frameworks.
+- Configured and maintained server environments on Linux uduntu with Nginx, pm2, auto deploy and auto backup.
+
+### **Full Stack Web Developer**  
 **Gold Label Technology Limited**  
-*March 2022 – Present*  
+*March 2022 – April 2025*  
 - Led multiple full lifecycle web-based application developments.
 - Managed projects using Vite Vue3, Nuxt3, React, Nextjs, Django, Express, and more.
 - Developed Android and desktop applications with Java, integrating RFID technology.

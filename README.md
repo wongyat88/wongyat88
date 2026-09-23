@@ -54,9 +54,10 @@ I'm a passionate full-stack developer with over 5 years of experience in program
 ### **Analyst Programmer**  
 **The Hong Kong Observatory**  
 *May 2025 – Present*  
-- Led multiple full lifecycle web-based application developments.
+- Led multiple full lifecycle web-based application developments on both internal and public [Science In Public Service](https://www.science.gov.hk).
+- Completed full process on data preparation, model training and deployment on cloud genera detection model
 - Managed old projects and migrate to new modern tech / frameworks.
-- Configured and maintained server environments on Linux ubuntu with Nginx, pm2, auto deploy and auto backup.
+- Configured and maintained server environments on Linux ubuntu with Nginx, Podman, Kaniko etc for auto deploy & backup.
 
 ### **Full Stack Web Developer**  
 **Gold Label Technology Limited**  
@@ -80,7 +81,7 @@ I'm a passionate full-stack developer with over 5 years of experience in program
 
 **MSc Computer Science**  
 *University of Hong Kong, HKSAR*  
-*September 2023 – Present*
+*September 2023 – 2025*
 
 **BSc Information Technology of Business**  
 *Coventry University, United Kingdom*  
